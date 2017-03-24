@@ -1,4 +1,4 @@
-# InstaCreeper
+# InstaCreeper (lol)
 Mass Instagram Image Downloader
 
 <b>First of all, this program only works for downloading public users of Instagram or users who you already follow.</b>
